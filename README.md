@@ -3,6 +3,7 @@ Code written in pyhton to manage a library system.
 
 Note: The code is written in Spanish, but is easy to understand for English speakers.
 Note: Each object has some predefined information declared at the very beginning of the Main part of the code, which can be easily deleted if necessary.
+Note: The code might not be fully optimized.
 
 This project is programmed in order to control all the elements of a real library system, mentioned below:
 1. Biblioteca (Library it self)
