@@ -5,7 +5,7 @@ Note: The code is written in Spanish, but is easy to understand for English spea
 Note: Each object has some predefined information declared at the very beginning of the Main part of the code, which can be easily deleted if necessary.
 Note: The code might not be fully optimized.
 
-This project is programmed in order to control all the elements of a real library system, mentioned below:
+This project is programmed in order to control all the elements of a real library system, which are mentioned below:
 1. Biblioteca (Library it self)
 2. Libro (Book)
 3. Bibliotecario (Librarian)
