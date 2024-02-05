@@ -6,7 +6,7 @@ Note: Each object has some predefined information declared at the very beginning
 Note: The code might not be fully optimized.
 
 This project is programmed in order to control all the elements of a real library system, which are mentioned below:
-1. Biblioteca (Library it self)
+1. Biblioteca (Library itself)
 2. Libro (Book)
 3. Bibliotecario (Librarian)
 4. Usuario (Users of the library)
