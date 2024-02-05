@@ -1,7 +1,7 @@
 # Library-Management-Python
 Code written in pyhton in order to manage a library system.
 
-Note: The code is written in Spanish, but is easy to understand for English speakers.
+Note: The code is written in Spanish, but it is easy to understand for English speakers.
 Note: Each object has some predefined information declared at the very beginning of the Main part of the code, which can be easily deleted if necessary.
 Note: The code might not be fully optimized.
 
