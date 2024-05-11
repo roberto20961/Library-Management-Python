@@ -23,9 +23,9 @@ def pedirNumeroEntero():
 salir = False
 opcion = 0
 
-usuario1 = Usuario("Carlos", "Isidro", "AAAA1", "Avnd Carlista", "345345345")
-usuario2 = Usuario("Manuel", "Godoy", "BBBB2", "Calle España", "123123123")
-usuario3 = Usuario("Francisco", "Francisco", "CCCC3", "Calle Dictatorial",
+usuario1 = Usuario("Carlos", "Isidro", "AAAA1", "Avnd A", "345345345")
+usuario2 = Usuario("Manuel", "Godoy", "BBBB2", "Calle Ac", "123123123")
+usuario3 = Usuario("Francisco", "Francisco", "CCCC3", "Calle De",
                    "789789789")
 usuario4 = Usuario("Pepe", "Botella", "DDDD4", "Calle Francia", "890890890")
 usuario5 = Usuario("Almirante", "Topete", "EEEE5", "Calle Gloriosa",
@@ -34,7 +34,7 @@ usuario6 = Usuario("Praxedes", "Sagasta", "FFFF6", "Calle 1903DEP",
                    "134134134")
 usuario7 = Usuario("Canovas", "Castillo", "GGGG7", "Calle El",
                    "389389389")
-libro1 = Libro("Dios, Patria y Fueros", "Carlitos", "Patriotico", "111111")
+libro1 = Libro("Carlo", "Carlitos", "Tuit", "111111")
 libro2 = Libro("Asi es la p*ta vida", "Jordi Wild", "Real", "222222")
 libro3 = Libro("El trabajo", "David", "Locura", "333333")
 libro4 = Libro("Wigetta 1", "Vegetta777", "Comics", "444444")
@@ -58,7 +58,7 @@ bibliotecario2 = Bibliotecario("Fran", "Rojas", "2222B",
                                [prestamo4, prestamo5, prestamo6])
 
 biblioteca = Biblioteca(
-  "MiniBoys", "Avenida de España", "Sabinillas", [
+  "Miniboys", "Avenida de España", "Sabinillas", [
     libro1, libro2, libro3, libro4, libro5, libro6, libro7, libro8, libro9,
     libro10
   ], [bibliotecario1, bibliotecario2],
